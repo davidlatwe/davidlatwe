@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<img src="https://github.githubassets.com/images/mona-whisper.gif" alt="drawing" width=36/>
+
+- 🔭 I’m currently working on VFX/Animation Pipeline
+- 🌱 I’m currently learning Rez/USD
+- ⚡ Fun fact: montydb is awesome
+
 <!--
 **davidlatwe/davidlatwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
